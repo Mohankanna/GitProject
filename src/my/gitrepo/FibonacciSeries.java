@@ -21,6 +21,8 @@ for(int i=0;i<=10;i++)
 	b=sum;
 	
 	System.out.print(sum+"  "); // It will print First 10 fibonacci numbers starts from 0
+	
+	//made some changes for GIT Reference
 }
 	
 }	
